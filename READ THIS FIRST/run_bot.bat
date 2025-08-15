@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call venv\Scripts\activate
+echo Running Slack DocGPT Bot...
+python slack_doc_bot.py
+pause

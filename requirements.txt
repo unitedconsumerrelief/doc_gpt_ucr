@@ -1,0 +1,9 @@
+openai==0.28.1
+slack_bolt==1.23.0
+slack_sdk==3.35.0
+faiss-cpu==1.11.0
+python-dotenv==1.1.1
+pdfplumber==0.10.4
+tqdm==4.67.1
+flask==2.3.3
+
